@@ -29,4 +29,4 @@ In this tutorial, you will build the following pipeline:
 
 ## What Next?
 
-* PLACEHOLDER
+[Microservices with Istio, gRPC, Redis, BigQuery, Spring Boot, Spring Cloud and Stackdriver](https://github.com/kbhattac/coolretailer)
